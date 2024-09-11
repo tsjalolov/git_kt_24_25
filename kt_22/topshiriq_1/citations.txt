@@ -1,0 +1,663 @@
+TY  - JOUR
+T1  - “АQLLI ISSIQXONA” BOSHQARISH TIZIMINI MODELLASHTIRISH VA TADQIQ QILISH
+A1  - Jalolov, TS
+A1  - Usmonov, AU
+JO  - Экономика и социум
+IS  - 9 (88)
+SP  - 74
+EP  - 77
+SN  - 2225-1545
+Y1  - 2021
+PB  - ООО «Институт управления и социально-экономического развития»
+ER  - 
+
+
+TY  - JOUR
+T1  - PYTHON INSTRUMENTLARI BILAN KATTA MA’LUMOTLARNI QAYTA ISHLASH
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - Educational Research in Universal Sciences
+VL  - 2
+IS  - 11 SPECIAL
+SP  - 320
+EP  - 322
+SN  - 2181-3515
+Y1  - 2023
+ER  - 
+
+
+TY  - JOUR
+T1  - PSIXOLOGIYA YO ‘NALISHIDA TAHSIL OLAYOTGAN TALABALARGA SPSS YORDAMIDA MATEMATIK USULLARNI O ‘RGATISHNING METODIK USULLARI
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - Educational Research in Universal Sciences
+VL  - 2
+IS  - 10
+SP  - 323
+EP  - 326
+SN  - 2181-3515
+Y1  - 2023
+ER  - 
+
+
+TY  - JOUR
+T1  - Capabilities of SPSS software in high volume data processing testing
+A1  - Sadriddinovich, JT
+JO  - American Journal of Public Diplomacy and International Studies (2993-2157)
+VL  - 1
+IS  - 9
+SP  - 82
+EP  - 86
+Y1  - 2023
+ER  - 
+
+
+TY  - CONF
+T1  - IDENTIFYING THE POSITIVE EFFECTS OF PSYCHOLOGICAL AND SOCIAL WORK FACTORS BETWEEN INDIVIDUALS AND DEPARTMENTS THROUGH SPSS SOFTWARE
+A1  - Sadriddinovich, JT
+JO  - INTERNATIONAL SCIENTIFIC RESEARCH CONFERENCE
+VL  - 2
+IS  - 18
+SP  - 150
+EP  - 153
+Y1  - 2023
+ER  - 
+
+
+TY  - JOUR
+T1  - Solving Complex Problems in Python
+A1  - Jalolov, TS
+JO  - American Journal of Language, Literacy and Learning in STEM Education (2993-2769)
+VL  - 1
+IS  - 9
+SP  - 481
+EP  - 484
+Y1  - 2023
+ER  - 
+
+
+TY  - JOUR
+T1  - TEACHING THE BASICS OF PYTHON PROGRAMMING
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - International Multidisciplinary Journal for Research & Development
+VL  - 10
+IS  - 11
+SN  - 2394-6334
+Y1  - 2023
+ER  - 
+
+
+TY  - JOUR
+T1  - PEDAGOGICAL-PSYCHOLOGICAL FOUNDATIONS OF DATA PROCESSING USING THE SPSS PROGRAM
+A1  - Jalolov, TS
+JO  - INNOVATIVE DEVELOPMENTS AND RESEARCH IN EDUCATION
+VL  - 2
+IS  - 23
+SP  - 220
+EP  - 223
+Y1  - 2023
+ER  - 
+
+
+TY  - JOUR
+T1  - ADVANTAGES OF DJANGO FEMWORKER
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - International Multidisciplinary Journal for Research & Development
+VL  - 10
+IS  - 12
+SN  - 2394-6334
+Y1  - 2023
+ER  - 
+
+
+TY  - JOUR
+T1  - Artificial intelligence python (PYTORCH)
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - Oriental Journal of Academic and Multidisciplinary Research
+VL  - 1
+IS  - 3
+SP  - 123
+EP  - 126
+SN  - 3030-3079
+Y1  - 2023
+ER  - 
+
+
+TY  - JOUR
+T1  - SPSS YOKI IJTIMOIY FANLAR UCHUN STATISTIK PAKET BILAN PSIXOLOGIK MA’LUMOTLARNI QAYTA ISHLASH
+A1  - Jalolov, TS
+JO  - Journal of Universal Science Research
+VL  - 1
+IS  - 12
+SP  - 207
+EP  - 215
+Y1  - 2023
+ER  - 
+
+
+TY  - JOUR
+T1  - PYTHON DASTUR TILIDADA WEB-ILOVALAR ISHLAB CHIQISH
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - TECHNICAL SCIENCE RESEARCH IN UZBEKISTAN
+VL  - 1
+IS  - 5
+SP  - 160
+EP  - 166
+Y1  - 2023
+ER  - 
+
+
+TY  - JOUR
+T1  - SUN'IY INTELLEKTDA PYTHONNING (PYTORCH) KUTUBXONASIDAN FOYDALANISH
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - TECHNICAL SCIENCE RESEARCH IN UZBEKISTAN
+VL  - 1
+IS  - 5
+SP  - 167
+EP  - 171
+Y1  - 2023
+ER  - 
+
+
+TY  - JOUR
+T1  - WORKING WITH MATHEMATICAL FUNCTIONS IN PYTHON
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - TECHNICAL SCIENCE RESEARCH IN UZBEKISTAN
+VL  - 1
+IS  - 5
+SP  - 172
+EP  - 177
+Y1  - 2023
+ER  - 
+
+
+TY  - JOUR
+T1  - Programming languages, their types and basics
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - Technical science research in Uzbekistan
+VL  - 1
+IS  - 5
+SP  - 145
+EP  - 152
+Y1  - 2023
+ER  - 
+
+
+TY  - JOUR
+T1  - THE MECHANISMS OF USING MATHEMATICAL STATISTICAL ANALYSIS METHODS IN PSYCHOLOGY
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - TECHNICAL SCIENCE RESEARCH IN UZBEKISTAN
+VL  - 1
+IS  - 5
+SP  - 138
+EP  - 144
+Y1  - 2023
+ER  - 
+
+
+TY  - JOUR
+T1  - PARALLEL PROGRAMMING IN PYTHON
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - TECHNICAL SCIENCE RESEARCH IN UZBEKISTAN
+VL  - 1
+IS  - 5
+SP  - 178
+EP  - 183
+Y1  - 2023
+ER  - 
+
+
+TY  - JOUR
+T1  - PYTHON TILINING AFZALLIKLARI VA KAMCHILIKLARI
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - TECHNICAL SCIENCE RESEARCH IN UZBEKISTAN
+VL  - 1
+IS  - 5
+SP  - 153
+EP  - 159
+Y1  - 2023
+ER  - 
+
+
+TY  - JOUR
+T1  - СОЗДАНИЕ ПРОГРАММЫ ДЛЯ ИМИТАЦИИ ШИФРОВАНИЯ МАШИНЫ ENIGMA НА ЯЗЫКЕ PYTHON
+A1  - Jalolov, TS
+JO  - TECHNICAL SCIENCE RESEARCH IN UZBEKISTAN
+VL  - 1
+IS  - 5
+SP  - 317
+EP  - 323
+Y1  - 2023
+ER  - 
+
+
+TY  - JOUR
+T1  - STUDY THE PSYCHOLOGY OF PROGRAMMERS
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - American Journal of Public Diplomacy and International Studies (2993-2157)
+VL  - 1
+IS  - 10
+SP  - 563
+EP  - 568
+Y1  - 2023
+ER  - 
+
+
+TY  - JOUR
+T1  - UNDERSTANDING THE ROLE OF ATTENTION AND CONSCIOUSNESS IN COGNITIVE PSYCHOLOGY
+A1  - Jalolov, T
+JO  - Journal of Universal Science Research
+VL  - 1
+IS  - 12
+SP  - 839
+EP  - 843
+Y1  - 2023
+ER  - 
+
+
+TY  - JOUR
+T1  - MATH MODULES IN C++ PROGRAMMING LANGUAGE
+A1  - Jalolov, TS
+JO  - Journal of Universal Science Research
+VL  - 1
+IS  - 12
+SP  - 834
+EP  - 838
+Y1  - 2023
+ER  - 
+
+
+TY  - JOUR
+T1  - ANALYSIS OF PSYCHOLOGICAL DATA IN ADOLESCENTS USING SPSS PROGRAM
+A1  - Sadriddinovich, Jalolov Tursunbek
+JO  - PEDAGOG
+VL  - 7
+IS  - 4
+SP  - 266
+EP  - 272
+Y1  - 2024
+ER  - 
+
+
+TY  - JOUR
+T1  - SPSS DASTURI FOYDALANISHDA PSIXOLOGIK MA'LUMOTLARNI TAHLILI
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - Multidisciplinary Journal of Science and Technology
+VL  - 4
+IS  - 4
+SP  - 463
+EP  - 469
+SN  - 2582-4686
+Y1  - 2024
+ER  - 
+
+
+TY  - JOUR
+T1  - BASICS OF PSYCHOLOGICAL SERVICE
+A1  - Sadriddinovich, Jalolov Tursunbek
+JO  - PSIXOLOGIYA VA SOTSIOLOGIYA ILMIY JURNALI
+VL  - 2
+IS  - 4
+SP  - 61
+EP  - 67
+Y1  - 2024
+ER  - 
+
+
+TY  - JOUR
+T1  - Использование математических методов в психологических данных (с использованием программного обеспечения SPSS)
+A1  - Жалолов, Турсунбек
+JO  - in Library
+VL  - 4
+IS  - 4
+SP  - 359
+EP  - 363
+Y1  - 2023
+ER  - 
+
+
+TY  - JOUR
+T1  - ANALYSIS OF PSYCHOLOGICAL DATA USING SPSS PROGRAM
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - Multidisciplinary Journal of Science and Technology
+VL  - 4
+IS  - 4
+SP  - 477
+EP  - 482
+SN  - 2582-4686
+Y1  - 2024
+ER  - 
+
+
+TY  - JOUR
+T1  - РАЗВИТИЕ ТВОРЧЕСКОГО МЫШЛЕНИЯ УЧАЩИХСЯ МЛАДШИХ КЛАССОВ С ПОМОЩЬЮ МУЛЬТИМЕДИЙНЫХ ТЕХНОЛОГИЙ.
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - MASTERS
+VL  - 2
+IS  - 5
+SP  - 40
+EP  - 47
+Y1  - 2024
+ER  - 
+
+
+TY  - JOUR
+T1  - ВАЖНОСТЬ АНГЛИЙСКОГО ЯЗЫКА В ПРОГРАММИРОВАНИИ
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - MASTERS
+VL  - 2
+IS  - 5
+SP  - 55
+EP  - 61
+Y1  - 2024
+ER  - 
+
+
+TY  - JOUR
+T1  - ИЗУЧЕНИЕ МАТЕМАТИЧЕСКИХ БИБЛИОТЕК PYTHON: ПОДРОБНОЕ РУКОВОДСТВО
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - MASTERS
+VL  - 2
+IS  - 5
+SP  - 48
+EP  - 54
+Y1  - 2024
+ER  - 
+
+
+TY  - JOUR
+T1  - THE IMPORTANCE OF ENGLISH IN PROGRAMMING
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - WORLD OF SCIENCE
+VL  - 7
+IS  - 5
+SP  - 128
+EP  - 134
+Y1  - 2024
+ER  - 
+
+
+TY  - JOUR
+T1  - ENHANCING CREATIVE THINKING IN ELEMENTARY SCHOOL STUDENTS THROUGH MULTIMEDIA TECHNOLOGIES
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - WORLD OF SCIENCE
+VL  - 7
+IS  - 5
+SP  - 114
+EP  - 120
+Y1  - 2024
+ER  - 
+
+
+TY  - JOUR
+T1  - EXPLORING THE MATHEMATICAL LIBRARIES OF PYTHON: A COMPREHENSIVE GUIDE
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - WORLD OF SCIENCE
+VL  - 7
+IS  - 5
+SP  - 121
+EP  - 127
+Y1  - 2024
+ER  - 
+
+
+TY  - JOUR
+T1  - DASTURLASHDA INGLIZ TILINING AHAMIYATI
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - BIOLOGIYA VA KIMYO FANLARI ILMIY JURNALI
+VL  - 2
+IS  - 5
+SP  - 78
+EP  - 84
+Y1  - 2024
+ER  - 
+
+
+TY  - JOUR
+T1  - PYTHONNING MATEMATIK KUTUBXONALARINI O'RGANISH: KENG QAMROVLI QO'LLANMA
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - BIOLOGIYA VA KIMYO FANLARI ILMIY JURNALI
+VL  - 2
+IS  - 5
+SP  - 71
+EP  - 77
+Y1  - 2024
+ER  - 
+
+
+TY  - JOUR
+T1  - BOSHLANG'ICH SINF O'QUVCHILARIDA MULTIMEDIA TEXNOLOGIYALARI ORQALI IJODIY FIKRLASHNI KUCHAYTIRISH
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - BIOLOGIYA VA KIMYO FANLARI ILMIY JURNALI
+VL  - 2
+IS  - 5
+SP  - 64
+EP  - 70
+Y1  - 2024
+ER  - 
+
+
+TY  - JOUR
+T1  - ПОРЯДОК СОЗДАНИЯ ПСИХОЛОГИЧЕСКИХ ТЕСТОВЫХ ПРОГРАММ
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - PEDAGOG
+VL  - 7
+IS  - 6
+SP  - 145
+EP  - 152
+Y1  - 2024
+ER  - 
+
+
+TY  - JOUR
+T1  - DJANGO В ВЕБ-ПРОГРАММИРОВАНИИ
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - MASTERS
+VL  - 2
+IS  - 5
+SP  - 136
+EP  - 142
+Y1  - 2024
+ER  - 
+
+
+TY  - JOUR
+T1  - YUQORI HAJMLI MA'LUMOTLARNI QAYTA ISHLASHDA PYTHON KUTUBXONALARI
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - MASTERS
+VL  - 2
+IS  - 5
+SP  - 121
+EP  - 128
+Y1  - 2024
+ER  - 
+
+
+TY  - JOUR
+T1  - PYTHON-DA API-LARDAN FOYDALANISH: KENG QAMROVLI QO'LLANMA
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - MASTERS
+VL  - 2
+IS  - 5
+SP  - 113
+EP  - 120
+Y1  - 2024
+ER  - 
+
+
+TY  - JOUR
+T1  - DJANGONING VEB-DASTURLASHDAGI ROLI
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - WORLD OF SCIENCE
+VL  - 7
+IS  - 5
+SP  - 576
+EP  - 582
+Y1  - 2024
+ER  - 
+
+
+TY  - JOUR
+T1  - LEVERAGING APIS IN PYTHON: A COMPREHENSIVE GUIDE
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - WORLD OF SCIENCE
+VL  - 7
+IS  - 5
+SP  - 544
+EP  - 552
+Y1  - 2024
+ER  - 
+
+
+TY  - JOUR
+T1  - МАТЕМАТИЧЕСКОМ СТАТИСТИЧЕСКОМ АНАЛИЗЕ В PYTHON.
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - MASTERS
+VL  - 2
+IS  - 5
+SP  - 151
+EP  - 158
+Y1  - 2024
+ER  - 
+
+
+TY  - JOUR
+T1  - ИСПОЛЬЗОВАНИЕ API В PYTHON: ПОДРОБНОЕ РУКОВОДСТВО
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - WORLD OF SCIENCE
+VL  - 7
+IS  - 5
+SP  - 553
+EP  - 560
+Y1  - 2024
+ER  - 
+
+
+TY  - JOUR
+T1  - PYTHON LIBRARIES IN HIGH VOLUME DATA PROCESSING
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - WORLD OF SCIENCE
+VL  - 7
+IS  - 5
+SP  - 561
+EP  - 567
+Y1  - 2024
+ER  - 
+
+
+TY  - JOUR
+T1  - DJANGO'S ROLE IN WEB PROGRAMMING
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - MASTERS
+VL  - 2
+IS  - 5
+SP  - 129
+EP  - 135
+Y1  - 2024
+ER  - 
+
+
+TY  - JOUR
+T1  - PYTHONDA MATEMATIK STATISTIK TAHLIL HAQIDA
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - WORLD OF SCIENCE
+VL  - 7
+IS  - 5
+SP  - 583
+EP  - 590
+Y1  - 2024
+ER  - 
+
+
+TY  - JOUR
+T1  - БИБЛИОТЕКИ PYTHON ДЛЯ ОБРАБОТКИ БОЛЬШИХ ОБЪЕМОВ ДАННЫХ
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - WORLD OF SCIENCE
+VL  - 7
+IS  - 5
+SP  - 568
+EP  - 575
+Y1  - 2024
+ER  - 
+
+
+TY  - JOUR
+T1  - MATHEMATICAL STATISTICAL ANALYSIS IN PYTHON
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - MASTERS
+VL  - 2
+IS  - 5
+SP  - 143
+EP  - 150
+Y1  - 2024
+ER  - 
+
+
+TY  - JOUR
+T1  - SPSS S DASTURIDAN PSIXOLOGIK MA'LUMOTLARNI TAHLILIDA FOYDALANISH.
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - MASTERS
+VL  - 2
+IS  - 8
+SP  - 8
+EP  - 14
+Y1  - 2024
+ER  - 
+
+
+TY  - JOUR
+T1  - ИСПОЛЬЗОВАНИЕ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ SPSS В АНАЛИЗЕ ПСИХОЛОГИЧЕСКИХ ДАННЫХ
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - WORLD OF SCIENCE
+VL  - 7
+IS  - 8
+SP  - 20
+EP  - 26
+Y1  - 2024
+ER  - 
+
+
+TY  - JOUR
+T1  - ЗНАЧЕНИЕ ИНФОРМАЦИОННОЙ КОММУНИКАЦИИ В ВЫСШЕМ ОБРАЗОВАНИИ
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - MASTERS
+VL  - 2
+IS  - 8
+SP  - 1
+EP  - 7
+Y1  - 2024
+ER  - 
+
+
+TY  - JOUR
+T1  - THE IMPORTANCE OF INFORMATION COMMUNICATION IN HIGHER EDUCATION
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - WORLD OF SCIENCE
+VL  - 7
+IS  - 8
+SP  - 14
+EP  - 19
+Y1  - 2024
+ER  - 
+
+
+TY  - JOUR
+T1  - USE OF SPSS SOFTWARE IN PSYCHOLOGICAL DATA ANALYSIS
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - PSIXOLOGIYA VA SOTSIOLOGIYA ILMIY JURNALI
+VL  - 2
+IS  - 7
+SP  - 1
+EP  - 6
+Y1  - 2024
+ER  - 
+
+
+TY  - JOUR
+T1  - OLIY TA’LIMDA AXBOROT MUMKINASINING AHAMIYATI
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - PSIXOLOGIYA VA SOTSIOLOGIYA ILMIY JURNALI
+VL  - 2
+IS  - 7
+SP  - 21
+EP  - 26
+Y1  - 2024
+ER  - 
